@@ -1,0 +1,17 @@
+{
+	"hotkey": "<ctrl>+<alt>+h",
+	"command": {
+		"browser": {
+			"str": "https://confluence.gemalto.com/display/BL/Santander+Chile+-+Dexxis+Central+Issuance",
+			"nxs": "https://confluence.gemalto.com/display/DILTC/NEXUS+-+DEXXIS+Central+Issuance",
+			"bps": "",
+			"ebs": "https://ebsprod.gemalto.com:8020/OA_HTML/OA.jsp?OAFunc=OANEWHOMEPAGE&oas=rIlDZTSLRn6nnMVZe5Frww..#dummyAnchor1"
+		
+		},
+		"folder": {
+			"clients": "c:/Users/10057304/Documents/1.1-BPS/3-Clientes",
+			"sfw": "c:/Users/10057304/Documents/3-Software",
+			"spi": "c:/Gemalto"
+		}
+	}
+}
