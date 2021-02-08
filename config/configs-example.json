@@ -1,0 +1,17 @@
+{
+	"hotkey": "<ctrl>+<alt>+h",
+	"command": {
+		"browser": {
+			"str": "",
+			"nxs": "",
+			"bps": "",
+			"ebs": ""
+		
+		},
+		"folder": {
+			"clients": "c:/Users/10057304/Documents/1.1-BPS/3-Clientes",
+			"sfw": "c:/Users/10057304/Documents/3-Software",
+			"spi": "c:/Gemalto"
+		}
+	}
+}
